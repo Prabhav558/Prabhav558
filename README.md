@@ -5,12 +5,13 @@
 
 ### 👀 Visitor Counter
 
-<h3 align="center">👀 Profile Visitors</h3>
-<p align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img alt="visitor badge" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fcounter.prabhav558.dev%2Fprofile-views&count_bg=%2328A745&title_bg=%23252525&title=VISITORS&edge_flat=false" />
-  </a>
+<h3 align="center">Visitor Counter </h3>
+<p align="center"> 
+  <img src="https://profile-counter.deno.dev/Prabhav558/count.svg"/>
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
 
