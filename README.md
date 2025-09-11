@@ -105,3 +105,20 @@
 </div>
 
 ###
+
+<div align="center">
+
+  <!-- Top Projects Section -->
+  <div style="border: 2px solid #333; border-radius: 10px; padding: 15px; width: 300px; background-color: #111; color: #fff; font-family: monospace;">
+    <h3>🚀 My Top Projects</h3>
+    <ol align="left">
+      <li><b>Facelock</b></li>
+      <li><b>SafePath</b></li>
+      <li><b>CreditWise</b></li>
+    </ol>
+  </div>
+
+</div>
+
+
+ ###
