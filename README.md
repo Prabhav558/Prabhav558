@@ -2,7 +2,6 @@
   <img height="200" src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTc2MTg4ODksIm5iZiI6MTc1NzYxODU4OSwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTExVDE5MjMwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMwMWRlZDhmOTBmNzBlNWY2NGNiY2NiNjcwNDk5YTIyZjYxMzIxZjM1ZDVkYzg5ZDkwMmUyZTkyNTljNDIxOGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.-fUTlZvjGPRFALxYq2qJyLPTMFifOSNoPzXojJVHEE0"  />
 </div>
 
-###
 
 ### 👀 Visitor Counter
 
@@ -12,7 +11,6 @@
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPrabhav558&count_bg=%2328A745&title_bg=%23252525&icon=&icon_color=%23E7E7E7&title=VISITORS&edge_flat=false" alt="visitor badge" />
   </a>
 </p>
-
 
 ###
 
@@ -28,7 +26,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Prabhav558/Prabhav558/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prabhav558/Prabhav558/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prabhav558/Prabhav558/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Prabhav558/Prabhav558/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
