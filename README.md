@@ -5,9 +5,9 @@
 
 ### 👀 Visitor Counter
 
-<h3 align="center">👁️ Visitor Counter</h3>
+<h3 align="center">👀 Profile Visitors</h3>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Prabhav558/count.svg" />
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Prabhav558&color=brightgreen&style=flat&label=VISITORS" />
 </p>
 
 
