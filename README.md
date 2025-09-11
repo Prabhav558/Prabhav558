@@ -106,19 +106,102 @@
 
 ###
 
+
+<!-- ======= GRID HERO (matches reference.png layout) ======= -->
 <div align="center">
+  <div style="
+      max-width: 980px;
+      margin: 0 auto;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 16px;
+      justify-content: center;
+      align-items: stretch;
+    ">
+<!-- Top-Left: Top Projects (large card) -->
+    <div style="
+        flex: 1 1 560px;
+        min-width: 340px;
+        background: #0d1117;
+        border: 1px solid #30363d;
+        border-radius: 10px;
+        padding: 18px 22px;
+        color: #e6edf3;
+        text-align: left;
+      ">
+      <h3 style="margin: 0 0 10px; text-align:center;">🚀 My Top Projects</h3>
+      <ol style="margin: 0; padding-left: 20px; line-height: 1.8; font-size: 16px;">
+        <li><b><a href="https://github.com/Prabhav558/FaceLock" style="color:#58a6ff;">Facelock</a></b></li>
+        <li><b><a href="https://github.com/Prabhav558/SafePath" style="color:#58a6ff;">SafePath</a></b></li>
+        <li><b><a href="https://github.com/Prabhav558/CreditWise" style="color:#58a6ff;">CreditWise</a></b></li>
+      </ol>
+    </div>
+<!-- Top-Right: Jim Carrey typing GIF (medium card) -->
+    <div style="
+        flex: 0 1 360px;
+        min-width: 280px;
+        background: #0d1117;
+        border: 1px solid #30363d;
+        border-radius: 10px;
+        padding: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      ">
+      <img
+        src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGs3d2pqZTBucG11NHZkczhkNmtpcmg4OW1vcGZicXRoYWw3OW1ycSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/toXKzaJP3WIgM/giphy.gif"
+        alt="Jim Carrey typing"
+        style="max-width: 100%; border-radius: 8px;"
+      />
+    </div>
+<!-- Bottom-Left: Socials with IDs (wide card) -->
+    <div style="
+        flex: 1 1 420px;
+        min-width: 320px;
+        background: #0d1117;
+        border: 1px solid #30363d;
+        border-radius: 10px;
+        padding: 18px 22px;
+        color: #e6edf3;
+        text-align: left;
+      ">
+      <h4 style="margin: 0 0 12px; text-align:center;">📬 Connect with me</h4>
+      <div style="display:grid; grid-template-columns: 32px auto; row-gap: 10px; column-gap: 10px; align-items:center;">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="28" />
+        <a href="https://www.linkedin.com/in/prabhav-singh" style="color:#e6edf3; text-decoration:none;">linkedin.com/in/prabhav-singh</a>
 
-  <!-- Top Projects Section -->
-  <div style="border: 2px solid #333; border-radius: 10px; padding: 15px; width: 300px; background-color: #111; color: #fff; font-family: monospace;">
-    <h3>🚀 My Top Projects</h3>
-    <ol align="left">
-      <li><b>Facelock</b></li>
-      <li><b>SafePath</b></li>
-      <li><b>CreditWise</b></li>
-    </ol>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="28" />
+        <span style="color:#e6edf3;">Discord: <b>yourDiscord#1234</b></span>
+
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="28" />
+        <a href="https://instagram.com/your_instagram" style="color:#e6edf3; text-decoration:none;">@your_instagram</a>
+
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="28" />
+        <a href="mailto:yourmail@gmail.com" style="color:#e6edf3; text-decoration:none;">yourmail@gmail.com</a>
+
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="28" />
+        <a href="https://www.hackerrank.com/your_id" style="color:#e6edf3; text-decoration:none;">hackerrank.com/your_id</a>
+      </div>
+    </div>
+    <!-- Bottom-Middle: Bot saying hello (small card) -->
+    <div style="
+        flex: 0 1 220px;
+        min-width: 200px;
+        background: #0d1117;
+        border: 1px solid #30363d;
+        border-radius: 10px;
+        padding: 10px;
+        display:flex;
+        align-items:center;
+        justify-content:center;
+      ">
+      <img
+        src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"
+        alt="Bot saying hello"
+        style="max-width:100%; border-radius:8px;"
+      />
+    </div>
+
   </div>
-
 </div>
-
-
- ###
+<!-- ======= /GRID HERO ======= -->
