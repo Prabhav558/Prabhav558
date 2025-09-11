@@ -5,13 +5,11 @@
 
 ### 👀 Visitor Counter
 
-<h3 align="center">👀 Profile Visitors</h3>
+<h3 align="center">👁️ Visitor Counter</h3>
 <p align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img alt="visitor badge"
-      src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPrabhav558&count_bg=%2328A745&title_bg=%23252525&icon=&icon_color=%23E7E7E7&title=VISITORS&edge_flat=false" />
-  </a>
+  <img src="https://profile-counter.glitch.me/Prabhav558/count.svg" />
 </p>
+
 
 
 ###
