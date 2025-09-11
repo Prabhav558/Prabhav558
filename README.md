@@ -3,7 +3,6 @@
 </div>
 
 
-### 👀 Visitor Counter
 
 <h3 align="center">Visitor Counter </h3>
 <p align="center"> 
