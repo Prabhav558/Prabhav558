@@ -4,6 +4,11 @@
 
 ###
 
+### 👀 Visitor Counter
+![Visitor Count](https://profile-counter.glitch.me/<your-username>/count.svg)
+
+###
+
 <br clear="both">
 
 <h4 align="left">🚀 Hi, I’m Prabhav Singh</h4>
