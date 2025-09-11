@@ -1,0 +1,26 @@
+name: Mirror visitor badge (optional)
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # every 30 minutes
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download current badge from Komarev
+        run: |
+          mkdir -p dist
+          curl -L "https://komarev.com/ghpvc/?username=Prabhav558&color=brightgreen&style=flat&label=VISITORS" -o dist/visitors.svg
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
