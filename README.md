@@ -85,11 +85,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Prabhav558&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Prabhav558&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prabhav558&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarthaklal&theme=gotham)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarthaklal&theme=gotham) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarthaklal&theme=gotham)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sarthaklal&theme=gotham) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sarthaklal&theme=gotham&utcOffset=8)  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ###
 
