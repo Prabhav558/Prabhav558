@@ -38,9 +38,6 @@
 
 ---
 
-<!-- Extra: GIF version -->
-![snake gif](https://github.com/Prabhav558/Prabhav558/blob/output/ocean.gif)
-
 
 ###
 
