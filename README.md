@@ -27,9 +27,11 @@
 
 ###
 
-<br clear="both">
-
-![snake gif](https://github.com/Prabhav558/Prabhav558/blob/output/github-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Prabhav558/Prabhav558/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Prabhav558/Prabhav558/blob/output/github-snake.svg">
+  <img alt="github contribution snake" src="https://github.com/Prabhav558/Prabhav558/blob/output/github-snake.svg">
+</picture>
 
 ###
 
