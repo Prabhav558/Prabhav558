@@ -30,11 +30,7 @@
 ## 🐍 GitHub Contribution Snake
 
 <!-- Auto-switch SVG (light / dark themes) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Prabhav558/Prabhav558/blob/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Prabhav558/Prabhav558/blob/output/github-snake.svg">
-  <img alt="github contribution snake" src="https://github.com/Prabhav558/Prabhav558/blob/output/github-snake.svg">
-</picture>
+![Snake animation](https://github.com/Prabhav558/Prabhav558/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
